@@ -84,7 +84,7 @@ Projects involving spam detection, sentiment analysis, recommendation systems, a
 
 <table>
 <tr>
-<td align="center" width="96">
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/>
 <br>Python
 </td>
