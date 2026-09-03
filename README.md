@@ -1,158 +1,131 @@
-<h1 align="center">Hi 👋, I'm Himanshu Sawarni</h1>
-
-<h3 align="center">
-🚀 Software Engineer | AI & Machine Learning | Computer Vision | Java & Python Developer | Cybersecurity Enthusiast
-</h3>
-
-<p align="center">
-Building intelligent solutions that bridge research and real-world applications.
-</p>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=itz-sawarni&label=Profile%20Views&color=0e75b6&style=flat" alt="itz-sawarni" />
-</p>
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=itz-sawarni&theme=flat&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Software Engineer passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Computer Vision.
-
-I enjoy solving real-world problems through technology, whether it's developing AI-powered assistive systems, cybersecurity solutions, or scalable software applications. I'm always exploring new technologies and continuously improving my engineering skills.
-
----
-
-## 🚀 Current Focus
-
-- 🔭 Currently building **Vision Assist** – An AI-powered navigation system for visually impaired users using Computer Vision and Deep Learning.
-- 🌱 Learning **Advanced Deep Learning, Agentic AI, LLM Applications, MLOps, Docker, Kubernetes & Distributed Systems**
-- 👯 Open to collaborating on **AI, Machine Learning, Computer Vision & Open Source Projects**
-- 🤝 Interested in **Production AI Systems, MLOps, and Scalable Machine Learning Infrastructure**
-- 💬 Ask me about **Python, Java, Machine Learning, Deep Learning, Computer Vision, Azure AI, SQL, Git & GitHub**
-- 📫 Reach me at **himanshusawarni1@gmail.com**
-
----
-
-## 🏆 Highlights
-
-- 🎓 B.Tech in Information Technology
-- 🤖 AI & Machine Learning Enthusiast
-- 👁️ Computer Vision Developer
-- ☁️ Microsoft Azure AI Intern
-- 🔐 CDAC Cybersecurity Intern
-- 🏅 GATE Qualified
-- 🥈 Hackathon Runner-up
-- 🛩 NCC 'C' Certificate Holder
-
----
-
-## 🚀 Featured Projects
-
-### 👁️ Vision Assist
-AI-powered wearable navigation assistant for visually impaired individuals using Computer Vision, object detection, and voice feedback.
-
-### 🛡 HTML Injection Defence System
-Security-focused project for detecting and preventing HTML Injection attacks.
-
-### 🚁 AI Drone Delivery System
-Autonomous drone solution designed for intelligent medicine delivery.
-
-### 🤖 Machine Learning & NLP Projects
-Projects involving spam detection, sentiment analysis, recommendation systems, and predictive analytics.
-
----
-
-## 💡 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Cybersecurity
-- Cloud Computing
-- Open Source Development
-
----
-
 ## 🛠 Languages & Tools
 
-<p align="left">
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/>
+<br>Python
+</td>
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/>
+<br>Java
+</td>
 
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
+<br>C++
+</td>
 
-<a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
+<br>JavaScript
+</td>
 
-<a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48"/>
+<br>HTML5
+</td>
 
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48"/>
+<br>CSS3
+</td>
+</tr>
 
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48"/>
+<br>MySQL
+</td>
 
-<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
+<br>PostgreSQL
+</td>
 
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48"/>
+<br>Firebase
+</td>
 
-<a href="https://pytorch.org"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48"/>
+<br>Azure
+</td>
 
-<a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/>
+<br>Git
+</td>
 
-<a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/>
+<br>GitHub
+</td>
+</tr>
 
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48"/>
+<br>Linux
+</td>
 
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"/>
+<br>Docker
+</td>
 
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48"/>
+<br>OpenCV
+</td>
 
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48"/>
+<br>PyTorch
+</td>
 
-</p>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48"/>
+<br>TensorFlow
+</td>
 
----
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
+<br>Scikit-Learn
+</td>
+</tr>
 
-## 📊 GitHub Stats
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<br>Pandas
+</td>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itz-sawarni&show_icons=true&theme=tokyonight" />
-</p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/>
+<br>NumPy
+</td>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-sawarni&theme=tokyonight" />
-</p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48"/>
+<br>Flask
+</td>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-sawarni&layout=compact&theme=tokyonight" />
-</p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48"/>
+<br>IntelliJ
+</td>
 
----
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48"/>
+<br>VS Code
+</td>
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/sawarni007">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="https://github.com/itz-sawarni">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> *"Every project I build is an opportunity to learn a new technology and solve a real-world problem."*
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48"/>
+<br>Bash
+</td>
+</tr>
+</table>
