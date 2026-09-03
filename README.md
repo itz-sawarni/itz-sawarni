@@ -80,9 +80,6 @@ Projects involving spam detection, sentiment analysis, recommendation systems, a
 - Open Source Development
 
 ---
-
-## 🛠 Languages & Tools
-
 ## 🛠 Languages & Tools
 
 <table>
