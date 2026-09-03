@@ -89,27 +89,27 @@ Projects involving spam detection, sentiment analysis, recommendation systems, a
 <br>Python
 </td>
 
-<td align="center" width="96">
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/>
 <br>Java
 </td>
 
-<td align="center" width="96">
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
 <br>C++
 </td>
 
-<td align="center" width="96">
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"/>
 <br>JavaScript
 </td>
 
-<td align="center" width="96">
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48"/>
 <br>HTML5
 </td>
 
-<td align="center" width="96">
+<td align="center" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48"/>
 <br>CSS3
 </td>
